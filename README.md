@@ -1,7 +1,7 @@
 # adBannersManagementApp
 
 + Технологии в проекте:
-- Java + Spring Boot + Hibernate ORM + Maven : backend REST API
+- Java + Spring Boot + Spring Data JPA (Hibernate) + Maven : backend REST API
 - React.js + bootstraps + axios : frontend Client
 - Database: MySQL
 - Version control: GIT
